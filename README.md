@@ -1,2 +1,2 @@
 # Aryan-kokare
-This is an  demo for beginner 
+This is an  demo for beginner .
